@@ -1,7 +1,7 @@
 ## Integrantes:
-Nilson Diaz Hasbun
-Sergio Rodríguez
-David Maury
+Nilson Diaz Hasbun,
+Sergio Rodríguez,
+David Maury.
 
 # Simulación de Ransomware - Examen Final de Criptografía
 

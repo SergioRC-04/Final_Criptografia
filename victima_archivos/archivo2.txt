@@ -1,0 +1,31 @@
+Información de Empleados - Acceso Restringido
+
+ID: EMP001
+Nombre Completo: Ana María Pérez López
+Cargo: Gerente de Proyectos
+Email: ana.perez@empresa.com
+Teléfono: +573001234567
+Salario Base: $3,500,000 COP
+
+ID: EMP002
+Nombre Completo: Carlos Andrés Gómez Rodríguez
+Cargo: Desarrollador Senior
+Email: carlos.gomez@empresa.com
+Teléfono: +573019876543
+Salario Base: $4,200,000 COP
+
+ID: EMP003
+Nombre Completo: Laura Sofía Martínez Díaz
+Cargo: Analista de Datos
+Email: laura.martinez@empresa.com
+Teléfono: +573045678901
+Salario Base: $2,800,000 COP
+
+ID: EMP004
+Nombre Completo: David Alejandro Rojas Castro
+Cargo: Especialista en Marketing
+Email: david.rojas@empresa.com
+Teléfono: +573051122334
+Salario Base: $3,000,000 COP
+
+Nota: Este archivo debe ser manejado con la máxima seguridad.

@@ -1,0 +1,5 @@
+# Ignorar cualquier carpeta llamada venv en cualquier subdirectorio
+**/venv/
+venv/
+.env/
+.env

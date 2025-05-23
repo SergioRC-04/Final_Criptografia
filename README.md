@@ -1,3 +1,8 @@
+## Integrantes:
+Nilson Diaz Hasbun
+Sergio Rodríguez
+David Maury
+
 # Simulación de Ransomware - Examen Final de Criptografía
 
 Este proyecto es una simulación educativa de un ransomware como parte del examen final del curso de **Criptografía** en la Universidad del Norte. La simulación se enfoca en demostrar los conceptos criptográficos vistos en clase y no representa una amenaza real.
